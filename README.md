@@ -1,3 +1,6 @@
-Чтоб установить вводим:
+**Для установки введите:**
 
-wget https://raw.githubusercontent.com/leekar/OpenLedger/refs/heads/main/OpenLedger.sh h -O setup.sh && chmod +x setup.sh && ./setup.sh
+```
+wget https://raw.githubusercontent.com/leekar/OpenLedger/refs/heads/main/OpenLedger.sh h -O OpenLedger.sh && chmod +x OpenLedger.sh && ./OpenLedger.sh
+```
+
